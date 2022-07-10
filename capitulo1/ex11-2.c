@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-// error: no () in main function
+/* error: no () in main function */
+
 main {
     printf("Hello World\n");
 }
